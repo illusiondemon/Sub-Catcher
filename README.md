@@ -1,15 +1,15 @@
 <h1 align="center">
   <br>
-    Subdomin-Finder
+    Sub-Catcher
   <br>
 </h1>
 
 <h4 align="center">Automate Subdomin Finder</h4>
     <p align="center">
-  <a href="https://github.com/illusiondemon/subcatcher">
+  <a href="https://github.com/illusiondemon/Sub-Catcher">
     <img src="https://img.shields.io/static/v1?label=Project&message=SubCatcher&color=green">
   </a>
-    <a href="https://github.com/rahad-infosec/Huntigo">
+    <a href="https://github.com/illusiondemon/Sub-Catcher">
     <img src="https://img.shields.io/static/v1?label=Update&message=V0.1&color=green">
   </a>
 </p>
